@@ -1,5 +1,6 @@
 
 
 [[redirects]]
-  from = "/Services"
-  to = "/SignUp"
+  from = "/*"
+  to = "/index.html"
+  status = 200
