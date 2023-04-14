@@ -1,7 +1,5 @@
-[[redirects]]
-  from = "/Services/index.html"
-  to = "/Services"
+
 
 [[redirects]]
-  from = "/*"
-  to = "/Services"
+  from = "/Services"
+  to = "/SignUp"
