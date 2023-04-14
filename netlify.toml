@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/Services/index.html"
+  to = "/Services"
+
+[[redirects]]
+  from = "/*"
+  to = "/Services"
