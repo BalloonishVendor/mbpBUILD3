@@ -1,0 +1,33 @@
+{
+  "CONTRACT_ADDRESS": "0x2Db3B1021BD96233f7DAaC0d9Ee8d75b712f788d",
+  "CONTRACT_ADDRESS2": "0x8bC9224253e37Cd221c7f510aCc42cB6E734db57",
+  "ADMIN_PANNEL_ACCESS": false,
+  "ADMIN_ADDRESS":"0xAA8143768058C7218ddC66e631a568a5cF249be0",
+  "SCAN_LINK": "https://etherscan.io/address/0x2Db3B1021BD96233f7DAaC0d9Ee8d75b712f788d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Moon Base Pass",
+  "SYMBOL": "MOONBP",
+  "MAX_SUPPLY": 2000,
+  "MaxMintAmount":5,
+  "WEI_COST": 80000000000000000,
+  "WL_WEI_COST": 70000000000000000,
+  "PARENT_CLAIM_WEI_COST": 0,
+  "CLAIM_SYSTEM_WEI_COST": 0,
+  "DISPLAY_COST": ".07",
+  "GAS_LIMIT": 130000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moon-base-pass",
+  "SHOW_BACKGROUND": true,
+  "BannerOn":false,
+  "MintPannelInfo":true,
+  "PhasePublic": false,
+  "PhaseParentClaim": false,
+  "PhaseWL": true,
+  "PhaseClaim": false,
+  "tokenGate":false
+
+}
